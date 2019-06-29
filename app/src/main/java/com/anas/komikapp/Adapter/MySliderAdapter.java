@@ -1,0 +1,25 @@
+package com.anas.komikapp.Adapter;
+
+import java.util.List;
+
+import ss.com.bannerslider.Slider;
+import ss.com.bannerslider.adapters.SliderAdapter;
+import ss.com.bannerslider.viewholder.ImageSlideViewHolder;
+
+public class MySliderAdapter extends SliderAdapter {
+    private List<String> imageList;
+
+    public MySliderAdapter(List<String> imagelist) {
+        this.imageList = imagelist;
+    }
+
+    @Override
+    public int getItemCount() {
+        return imageList.size();
+    }
+
+    @Override
+    public void onBindImageSlide(int position, ImageSlideViewHolder imageSlideViewHolder) {
+        imageSlideViewHolder.bindImageSlide(imageList.get(position));
+    }
+}
