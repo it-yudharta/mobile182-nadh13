@@ -7,9 +7,13 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.app.AlertDialog;
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.strictmode.ServiceConnectionLeakedViolation;
 import android.transition.Slide;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -40,6 +44,8 @@ public class MainActivity extends AppCompatActivity implements IBannerLoadDone, 
     RecyclerView recycler_comic;
     TextView txt_comic;
 
+    ImageView btn_filter_search;
+
     //penyimpanan
     DatabaseReference banners, comics;
 
@@ -60,10 +66,17 @@ public class MainActivity extends AppCompatActivity implements IBannerLoadDone, 
         bannerListener = this;
         comicListener = this;
 
+        //button filter search
+        btn_filter_search = (ImageView)findViewById(R.id.btn_search);
+        btn_filter_search.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, FilterSearchActivity.class));
+            }
+        });
+
         slider = (Slider)findViewById(R.id.slider);
         Slider.init(new PicassoLoadingService());
-
-
 
         swipeRefreshLayout = (SwipeRefreshLayout)findViewById(R.id.swipe);
         swipeRefreshLayout.setColorSchemeResources(R.color.colorPrimary, R.color.colorPrimaryDark);
