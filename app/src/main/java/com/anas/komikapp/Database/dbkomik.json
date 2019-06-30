@@ -1,0 +1,864 @@
+{
+  "Banners": [
+    "https://vignette.wikia.nocookie.net/weeky-shonen-jump/images/5/50/Wiki-background/revision/latest?cb=20161103222340",
+    "https://cdn.vox-cdn.com/thumbor/6ulV_rjsZstWAKPDakxApsqP_iY=/0x0:1600x1036/920x613/filters:focal(672x390:928x646):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60665975/1_xeIOEO_TieWgOOiBUHuvnQ.0.png",
+    "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/e/e1/K%C5%8Dhei%27s_Jump_Heroes.png/revision/latest/scale-to-width-down/1000?cb=20160316120224"
+  ],
+  "Comic": [
+    {
+      "Name": "Assassination Classroom",
+      "Image": "https://lh3.googleusercontent.com/-6CnbOf653GU/UEDkj3Fv7dI/AAAAAAAAC3k/DhM1dhpPerA/s320/AS.jpg",
+      "Category": "Action,Comedy,School Life,Sci-fi,Shounen",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": [
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/01.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/02.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/03.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/04.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/05.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/06.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/07.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/08.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/09.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/10.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/11.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/12.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/13.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/14.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/15.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/16.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/17.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/18.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/19.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/20.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/21.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/22.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/23.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/24.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/25.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/26.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/27.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/28.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/29.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/30.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/31.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/32.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/33.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/34.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/35.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/36.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/37.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/38.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/39.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/40.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/41.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/42.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/43.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/44.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/45.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/46.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/47.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/48.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/49.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/1/50.jpg"
+          ]
+        },
+        {
+          "Name": "Chapter 2",
+          "Links": [
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/01.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/02.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/03.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/04.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/05.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/06.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/07.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/08.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/09.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/10.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/11.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/12.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/13.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/14.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/15.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/16.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/17.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/18.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/19.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/20.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/21.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/22.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/23.jpg",
+            "https://komikmanga.com/uploads/manga/assassination-classroom/chapters/2/24.jpg"
+          ]
+        },
+        {
+          "Name": "Chapter 3",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTE1HUHFzaXlqamc",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWmdCTHgxX3ZocEk",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HX2N4SkNJVkMtZTg",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HV3ZxZGQ3NkFNLWM",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcjZoWG40ZjVrTDQ",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNWNRRWxaOFRHREk",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNWlQNVg5NEZqclU",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcGFlZ3YtaEhtUzQ",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HU2ZoUmQ2VGVvaFE",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQ1JuRWxXZnFvRWs",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbHZhbUdMQkI5Nmc",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb1JoeHVrSVZKTTA",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZjcwbUhYTW4wMm8",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HU2pmYkY3TEVTR2s",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSVpjNzhnWnJPNGs",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HM3c1ZlpOOFhhd00",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMGd2OEZBN1BCU28",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYVhMbzRDVXc5czQ",
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOHZXZnhVcEk5Ums"
+
+            ]
+        },
+        {
+          "Name": "Chapter 4",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQUNuUjJzYmU1azQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaVF2WVdENHktSzQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSGZxaHhUS0phMEk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb0NvMWJ2b0xvbHM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUTBYOVJBczdPVEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVndaa21kZ1VOcDQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HejhXWTNQa1FCYzQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSXlTel8xYkNrUUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNWF2LTNGWUd2M2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVFNoN1czSUFWSjg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HeldVOTc4MDVRbm8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hck40U1BzU1hHbkk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdU4xdmxtai03MFE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HejNKM1F3SVVrcEk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcmNNODNwbXVsNTg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOFZpTkxuWEVRc0E",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVUdFZGN0TkliSUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hc1pySzVWWEZCNlk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HX2lMc2k4T09UaDg"
+            
+            ]
+        },
+        {
+          "Name": "Chapter 5",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSmMyb2VaWExLbmc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdFdoM1JJRm9naHM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQXpabkh0Q0l1dkk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HN0doeG5xV01MdFk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZFF6eEVCYUc1aUU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMkVsN0piRU4tcEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HR090RWxPeFNvUFU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZ3hOVVJlY1h2dmM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdWJPQzczSnhEQTQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HLThCbmxlR1ZJaTQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hanc2YXBDbVA5SEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbHNFOU1pSGg3UU0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWWhxWjFDQmJRa2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HU2kwc0hUQWdzcEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSUxrZlpKYURjeFk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSVJUZG1LeXh0djg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWkpQaGQzNnNCZVE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRGJRbmMtUjhtMVU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbW1UUEJzZW44R0k",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWHl6d045NkdpSkk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSEE3VG1GcUZJblk"
+
+            ]
+        },
+        {
+          "Name": "Chapter 6",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUl9tRmhkS0E0SGM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcVJTdTVxcW5xbk0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUTEzd1hCZlhKTmc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaHNNT3dtT1FySmM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWDJGeFlDYUNGX3c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNi1idTdIcWZUZHc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUjFDN1RoSVBlMzQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOWg5dk02N0NmZjQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRzgyVy1PS01zMTQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZTVPYUhTN0JIWlE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMjRCTzhxZkxUNW8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb1U1REF4NkRMa2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYTMyTjM5Z19XZ2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVVVEQnJPSmFQVUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HU2VCUVRZMEwwems",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hek56ZTY4ZThwVEk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNzVUSlpoTkNldms",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTnNLYkdoREtiRmc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNkJvcGZpMFpCRmc"
+
+            ]
+        },
+        {
+          "Name": "Chapter 7",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRlhiNUVFbXFIUjA",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HalFqVnlQaGU2MDA",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOTcyZVZ4RGthMUE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQi1aTzN1c08xeVE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hcm8xazNBMjllUG8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOTZmdnhFcXAyNTQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaVNITXVjTkZDNlU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSzlVeFdpdzllYmc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWm9hUnRic3NGYjQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HS2UyUUNfelZsZGM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HazgzYmM3aWh1NWM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRGdHQkpaeUFpY3c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdF9lZWJNX3BpT1k",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HeTJRN2FJLVdOV0U",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZmhNd2Z3MUZpZlU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWGVRQkduc2tkakE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZXNidFR4NVh3b28",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbVNlNHExc01pWXM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQzFURGNZS0RwTlE"
+            ]
+        }
+      ]
+    },
+    {
+      "Name": "Boku no Hero Academia",
+      "Image": "https://i2.wp.com/www.pecintakomik.net/wp-content/uploads/2018/08/141381.jpg",
+      "Category": "Action,Comedy,Fantasy,School Life,Sci-Fi,Shounen",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HekVuUVNkOTJWRTg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcEotVzNZTmhfMEU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMkVRZnNtRG1DZk0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUy1sUXNqYnlWR0k",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcjRmSkFCZVdTUlU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HS2ptRnBIX3ByTDA",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWG9yT196SnF0RHM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSGtVMjZBanpCcnc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUUc4TkVFVUt1cjg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcU5NbGd0em5nOVk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWGNJaTRIczBJbFk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUENsWENDbDVnT0U",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HalY2VVFCaHFKeUE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HblBNd0dpZEZBdEU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcXU5WFFINEN4WTg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYWVycy0wTWJ2ZGc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HS1ctX2tfamFaYm8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQk9LdFhyT0UxZWs",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZlhyczJkQW5Nazg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNEdFeG5nSlNpSFE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HS3UwTTJLbGFTNGs",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HS3ROY3hPQXhtM3c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HV2NCNXdhV2ExZVk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQkFoQU5NYndCTU0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbDl6LWNmYjU0a00",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcmdvT1JiU1hyQ0k",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HM3VJM0JkVVBVZ2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcE1zZkpsTzQ5aVU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hck8zYjl5NXdSVzA",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUnBWM0NLWFA0MGs",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb0t3Y2R0MHlYMmc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hdi11V19xMFdjcm8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HeU55ZUFsYlU4Tkk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWkZfbG5FUVRwV3M",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYzVRTVlPaEdLRk0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOXN5RldXWjN3NHc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HX01UQjRsMmQ0aGs",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbjU3aHlNNWdMVUU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRi10QVowcURqYUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNzZEVnhNVUtsUTg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HeVRwNjRabXh2bjg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HXzRqd2FRUXk2aW8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HS0VEeWdQWWt2N00",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbmpDcGd1VHYzbWs",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSkd2SWVCYkI2Y1k",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSzFWN2xrejUxZ2M",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HR2E3RVJFNDdRNUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMjlvcnI2VkVNN0U",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTTF2SUxkX3JvMUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWFlhRmhYM0ZFRkE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb0V6X1h2RTcyS2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTjlzT05kOWhMODA",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWTRlMjBUUWVrVk0"
+            ]
+        },
+        {
+          "Name": "Chapter 2",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hd2RaTVhxVDhaY0U",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRmlFQnJuaTA5YUE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRVNwZUFaeklUc0k",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUTVmbkVvWTFEcHM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRnFWejJmYkdkV2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTFBlaHRlUDRKQ2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTWNicG9IQzlRN3c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZDc5dXJHVS1ROWM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVXdYaXU4UVNwZEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Ha2tGUkFfVV9zLVU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWFplYXZMVzEyLVU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVGhyUXIxNVZVS00",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNzRZMWZuM0IybFk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUnl6UnVsbDlxdG8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQ0lwcXhzQ3ppWmc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdWk4VHhiajJIWWc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSnlGU3ZlRFFQeEU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaWU2WG9IQjBjM2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcTR0WEViLTRqaVU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNjNNcExxYms3NHc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOTJ6RVd0ZFpuanM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTEJyb05ESXM0T2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaHRlZG5MMTE5MEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQl9vak1Vb3haRHc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSjE1dGU0VWFFZkU"
+            ]
+        },
+        {
+          "Name": "Chapter 3",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWllyNzBYLUdNUjQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZ0ViVFAxNUhXQms",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HV0Rsc0p1RDJLX3c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbzRvclFzbllxbHc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTXZjRWN6VTBBWU0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HenB5Q0JoZWVwWFU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HU0IyYnoxUU9yYms",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HU3pMRm5WS2VPQ00",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HLXg2Y2NlZ3BfYUU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbWI4VmJsZjZQUlU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hc1pTaDNRTndpcFE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HLTFLN21XN05iZEk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQmROVHFpV1BIeE0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HLVpjSW9sR2lFSXM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRTRpeWE5Q1dDVFU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HQW81U2tyZ18zTm8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcjNKVUpPbG1VMlE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb2JoM000ak1KM2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZGRRdm5hOGg5aUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMGxuN3dPM0RMT1E",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbTZxMzZ1WUwtUkU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb05rOUl4VXZycG8"
+            ]
+        },
+        {
+          "Name": "Chapter 4",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWmMzU3QtYmMzUDA",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HXzA2MHh0X3JISVk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcGdFcUMwTUkzVVk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSFBSLW9kMmF0U2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdklfS1B2WFo4M0U",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTmNZc1ZNWG9QSWc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVG9IaFEtWWFVZzg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcnNVbUV5LXhYLTQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaGljY3g2NFV3eG8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUDJEb3VaNG9tdUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaC1uTnp5OWVZOXc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HV0tLTlBqZlV2QnM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcmlrWXllOU02eTg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMEdCLXhRV2VqZzQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNDFVR2R5UUs0WlE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaHg5YkxhYTZnaEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMEZ4RlBWNjBSMEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HekNjSHpKd2lEUTQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSWpkWFAwTm5lVGs"
+            ]
+        },
+        {
+          "Name": "Chapter 5",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HOWpxTVZMdElKV2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HblVGZG5JNHNtTkk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hc3BFY3RVbDZxLWc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWDRhRGVfMGVTRTg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTDh1Y0ZuSk5yeDg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZXNzanNpanRrWHc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMURqZkMtS0V6Vm8",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVzA3S25DWXZPUzg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HeGpxYzlaM0tNdkU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaDFjMndiLVdBTkk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZHJxaU5uTXVubGc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSFAxTm9kOTY2cGs",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYU9CNG5SQ0NBU0E",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HY2FNOU91S2taS0k",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HZ0pyLTBFd1BMeUU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HeTNwampvR21TTnc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HU1VNeDloOXBDY2c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYi1pN0xPdG5aNmM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HVlRIVjlrZW1sUEU"
+            ]
+        },
+        {
+          "Name": "Chapter 6",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HcHl2bENER3V2dUk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HTHg4WndPQlpTeXM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdU52RzM4NE5YTkk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSGxSM2dPbllSMDQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMkxIQXZneDZaclk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdE5vOGFwdG13NEE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HS1dRb0t0Qm42MUU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdF9VeWd1MVk3YjQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNF9lNl9uQjdQc2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HaG5mZE5DS3dwZXc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNUJaeXQyTDdVV0U",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HdHp5eVA2ejBiLU0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HM3htNnpyelh3d2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbHNuQ24wbE85aTg",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSGRrcmVucTZNQ3c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUzlXeUJJV19rQjA",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWGRJUGJMYU00b3c",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRGk0ZUk1Y19Jb3M",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hb3F3WGxaV09kc0U"
+            ]
+        },
+        {
+          "Name": "Chapter 7",
+          "Links": [
+            "https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUkptUXppRFR3TFk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HWUszSlhXOUx3SGM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HNXNGUUhjWUk0TXM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYVpGc1FqRllUb2M",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUFRBa0pJN04wcWc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HYUlORV9zRGNObFU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HLU8wT0ZrbEtIT2s",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUk5pQWdnUDRjLVE",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HUHF0ZEZBMUZvbWM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094Hd0ZFWVRDN0xYbWc",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HV2ZsbG0tMTZJWlU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbG10b0xfV2pIYU0",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HRW94RVZraWh5Mlk",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HeldGaE51VVFUejQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSF83dFpEaXQ4VFU",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HSlBkeW9RTlNtZzQ",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HbDhNSWVlVmlVanM",
+"https://docs.google.com/uc?export=view&id=0B7Q8F0Dl094HMGJOd3BMNFBTSXM"
+            ]
+        }
+      ]
+    },
+    
+    {
+      "Name": "Black Clover",
+      "Image": "https://vignette.wikia.nocookie.net/blackclover/images/0/0e/Volume_1.png/revision/latest?cb=20150625202733",
+      "Category": "Action,Adventure,Comedy,Drama,Fantasy,Magic,Shounen",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": [
+            "https://i0.wp.com/lh3.googleusercontent.com/-H3GfUSz0OfY/Vic3GA6QWsI/AAAAAAAAsx0/m6P9_CHRvVg/s1600/2.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-TinQP39Gy34/Vic3G2TmQRI/AAAAAAAAsx4/6QHHL3LBpbE/s1600/o004.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-RnEArg-Xe2w/Vic3GxTnO6I/AAAAAAAAsx8/H4wmQM1z1qo/s1600/o005.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-SYgkieZyMXw/Vic3HJMY3TI/AAAAAAAAsyA/sOmHr7SOHpI/s1600/o006.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-zIcs0aFrxcE/Vic3HsqHdJI/AAAAAAAAsyM/sJJEZbIkClo/s1600/o007.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ofpnaAoKY2E/Vic3H91kcQI/AAAAAAAAsyQ/7Q4Nq9v7RHI/s1600/o008.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-oDvyOMTD8lo/Vic3IF5BXZI/AAAAAAAAsyU/TJ1VwjIDnGg/s1600/o009.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-cKC91nvT-Jo/Vic3IZXBWAI/AAAAAAAAsyg/_0rpBIQCsyM/s1600/o010.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-zxgOTmWWJvg/Vic3ItBZD_I/AAAAAAAAsyk/y8sNOe1FWtM/s1600/o011.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-S_1QA7YGo2E/Vic3I2tCn2I/AAAAAAAAsyo/fVGP_j8eizA/s1600/o011a.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-8J00Dbq4KG4/Vic3JHbbHTI/AAAAAAAAsys/rSWPvzCq0xU/s1600/o012.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-IGiKsQ6b0ag/Vic3JjdsPBI/AAAAAAAAsy8/ogOTb1p5Tz0/s1600/o013.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-BGz_n8PQkVg/Vic3JwsOIbI/AAAAAAAAszA/ds0ZBaZeqSY/s1600/o014.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-w7r4i6eTTDc/Vic3KDloDwI/AAAAAAAAszE/cpV28k7aZUg/s1600/o015.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-JiPStRMWFU0/Vic3KborjGI/AAAAAAAAszQ/25EDhyjKmZQ/s1600/o016.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-O_TZFsb2DmI/Vic3KqeYGZI/AAAAAAAAszU/pdB8IqdvsPg/s1600/o017.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-EtLNZPrGcXE/Vic3K1rpAJI/AAAAAAAAszc/3hN-7drj6CA/s1600/o018.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-auuWFAIwCsQ/Vic3LfwnuVI/AAAAAAAAszk/o5qXoqVKpYo/s1600/o019.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-OTgC2p4DXcw/Vic3LSbWPhI/AAAAAAAAszw/WhzzigcjFx4/s1600/o020.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-3i75Za0r1V0/Vic3LoKnIpI/AAAAAAAAsz0/U7VIHw2X6to/s1600/o021.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-1PxVbkTs12Q/Vic3MFQgFcI/AAAAAAAAsz8/mEO0LD0OWug/s1600/o022.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-R6BfKAAm13c/Vic3Mu6gFDI/AAAAAAAAs0I/GSrOTzapX0c/s1600/o023.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-CNgpsjMf-Uc/Vic3MzxFcHI/AAAAAAAAs0Q/jtq_7sBG3fo/s1600/o024.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Z7rtpsYBFqM/Vic3NHdDXwI/AAAAAAAAs0M/Dor4mOsJcsw/s1600/o025.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-OIftBUD9gek/Vic3NlBDxdI/AAAAAAAAs0g/QwAZpAH_vLQ/s1600/o026.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-qR-xucGvzPA/Vic3OPtog0I/AAAAAAAAs0s/JMcjYSugO8Q/s1600/o027.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-oiSTN_YBT8s/Vic3OChkdXI/AAAAAAAAs0o/MB9yGYxDHmA/s1600/o028.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-xMDoHcDANik/Vic3OgNz9pI/AAAAAAAAs00/jxtzufLPj-s/s1600/o029.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-mLzLrBm6wGE/Vic3O0LVxUI/AAAAAAAAs08/AxR1OSDSaNo/s1600/o030.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-coMGOZf8pJQ/Vic3PLfaV1I/AAAAAAAAs1E/1JTsY8mtyJs/s1600/o031.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-FndIuaLWMGM/Vic3PSGN2GI/AAAAAAAAs1I/ktXsojj8lr8/s1600/o032.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-AFa-pF41Pzk/Vic3PlTNo_I/AAAAAAAAs1Q/dF0OaEfqfrk/s1600/o033.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-rnE6y38G9qk/Vic3QDL4UxI/AAAAAAAAs1Y/vDweNvVHKvU/s1600/o034.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-sqUJf2mGp-c/Vic3QF8xfgI/AAAAAAAAs1c/9-3diSmGhe4/s1600/o035.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Ynh26kqLdhE/Vic3Qrfg-2I/AAAAAAAAs1g/Q6vJgA63h2g/s1600/o036.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ys_nDycxbF4/Vic3Q8Dj53I/AAAAAAAAs1o/4qtL8ax2dlk/s1600/o037.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-jcbFC8XYlY8/Vic3QwzK7LI/AAAAAAAAs1s/Iu_5BtFXkY0/s1600/o038.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-4j96GMONubg/Vic3Rcz_KAI/AAAAAAAAs10/BgJVsZPjpiI/s1600/o039.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-7zyqPSOKdUA/Vic3RnC3waI/AAAAAAAAs18/FXir9CQX7ZA/s1600/o040.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-KfULCUbXHSg/Vic3R2HbjaI/AAAAAAAAs2A/oFOLacOkkro/s1600/o041.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-JtbvfDojVjo/Vic3SNPjnFI/AAAAAAAAs2I/-yhqyw9hwaU/s1600/o042.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-3OttfHKCr58/Vic3SSOWyJI/AAAAAAAAs2Q/3yFvRTgrXSg/s1600/o043.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-p6MwJLM6YDc/Vic3SlusMlI/AAAAAAAAs2U/W6oiJI5lC4A/s1600/o044.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-lfm2nHflWN0/Vic3TEVN-UI/AAAAAAAAs2o/qsb-ydx2aN0/s1600/o046.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-rH09bmGzejQ/Vic3Tdb2vcI/AAAAAAAAs2w/6M_NeJmoeSQ/s1600/o047.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-eds3NrMyTTI/Vic3TpdEysI/AAAAAAAAs2s/EGTyS4IQ1dc/s1600/o048.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-fFpGnnMrfik/Vic3UPHqZsI/AAAAAAAAs28/3NJzUybvafg/s1600/o049.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Yz-t8bwWF7s/Vic3UVz874I/AAAAAAAAs3E/V7_NsANc1G4/s1600/o050.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-tWMvtvAeh5Q/Vic3UuBPYeI/AAAAAAAAs3M/B7LvhvoIilQ/s1600/o051.jpg"
+            ]
+        },
+        
+                {
+          "Name": "Chapter 2",
+          "Links": [
+            "https://i0.wp.com/lh3.googleusercontent.com/-JZoQVtaMUN8/VihS508wCaI/AAAAAAAAs_o/OQ2pjJXDUMI/s1600/2.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-bGzXC8SDEYM/VihS8GV3IaI/AAAAAAAAtAY/OEZNkZ4zk64/s1600/3.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ZK42H0wrSoE/VihS8vadYRI/AAAAAAAAtAk/CtQA6B9vKlo/s1600/4.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-jrim9I6bFqs/VihS82lwB1I/AAAAAAAAtAo/VSRzTzqJ8Js/s1600/5.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-YB8Dn940WhU/VihS9Gs7eYI/AAAAAAAAtAw/RQ0Ghmbhk_Y/s1600/6.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-DagHA7JN0y8/VihS9vP6-aI/AAAAAAAAtBA/9GltEK3I0Qo/s1600/7.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-cxxxwRF4zWU/VihS9ua2-HI/AAAAAAAAtA8/OwKIePWyNU4/s1600/8.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-09PdpzqNJnU/VihS94fk0UI/AAAAAAAAtBE/JVFwSugf7_A/s1600/9.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Rtahp3bqyMc/VihS3Lo_QtI/AAAAAAAAs-w/Lr-P8i2lQqU/s1600/10.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/--DKRI86pUSo/VihS3ARtq8I/AAAAAAAAs-s/xFOth8kTRiM/s1600/11.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-y_AxLTp69Fg/VihS3yH69iI/AAAAAAAAs-0/De17wVFAxfM/s1600/12.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-823y3sVOS0w/VihS4LVjjAI/AAAAAAAAs-4/kaxPkmLd1H0/s1600/13.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-kmoMtwv9dDY/VihS4Tk83dI/AAAAAAAAs_A/igmTgcierQ8/s1600/14.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-KdlcxlxpD4k/VihS4nh4kBI/AAAAAAAAs_I/74JnP2nMzGA/s1600/15.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-B18h7rTsmfo/VihS47mQe3I/AAAAAAAAs_Q/-vdAmw0Thzs/s1600/16.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-1Ak1alovBGk/VihS5C2OGjI/AAAAAAAAs_U/HrWkg_hjyxE/s1600/17.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-J6KpFpdqDkI/VihS5YzYi2I/AAAAAAAAs_g/GyreHbensdg/s1600/18.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-BfA9uzzGEtM/VihS5u-1l4I/AAAAAAAAs_k/sqdv_7KGC54/s1600/19.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-3AtHtqDwb10/VihS6AW19cI/AAAAAAAAs_0/WrmYawAWRcs/s1600/20.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-vAzOdnVY5Ak/VihS6pFxEfI/AAAAAAAAs_4/bLCz_vPOHBI/s1600/21.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-XGcGdTpycDE/VihS6lAOa0I/AAAAAAAAs_8/dwDBcgPeTME/s1600/22.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-0XNzn3Vz4rM/VihS7ByD62I/AAAAAAAAtAA/xWJ5ql2Nkwg/s1600/23.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-NyD43v_0oW8/VihS7aIwdqI/AAAAAAAAtAE/_V5aFgSYgZA/s1600/24.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-BvuphZTr8a8/VihS7tO9L_I/AAAAAAAAtAQ/HkiR3uvtSVI/s1600/25.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/--KoqQZ3mdss/VihS76XN3NI/AAAAAAAAtAU/2V3LLy4no9A/s1600/26.jpg"
+            ]
+        },
+        
+                {
+          "Name": "Chapter 3",
+          "Links": [
+            "https://i0.wp.com/lh3.googleusercontent.com/-Zbhq0uJdeXs/Vimf_49QJZI/AAAAAAAAtRk/nz5JX6--Wlk/s1600/u002.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-75Ff04UOkio/Vimf_zuS8AI/AAAAAAAAtRg/pLy0oVu6Fxc/s1600/u003.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-HQ8oFCr47YM/VimgAfVarlI/AAAAAAAAtRo/7m1Am3fipSk/s1600/u004.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-hZKOyvpK_dY/VimgAqjzYwI/AAAAAAAAtRw/12a666E5H68/s1600/u005.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ARjuoB9UP88/VimgAzPzXEI/AAAAAAAAtR0/LqufmUhRoc4/s1600/u006.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-P9CpRLK0siI/VimgBDeyIaI/AAAAAAAAtSA/t1Uy5uP6wFw/s1600/u007.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-XdvQJDIyIaI/VimgBafOb7I/AAAAAAAAtSE/naAWeqoGgJQ/s1600/u008.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-_xLZnNd-wYg/VimgBntt3LI/AAAAAAAAtSI/Ds0WdidLiw0/s1600/u009.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-oqec-CSnX2g/VimgCB5lcfI/AAAAAAAAtSU/VjbY4Ebe4Ng/s1600/u010.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-6ns9T6oBCWQ/VimgCAuYrKI/AAAAAAAAtSY/mx-Brdr75SY/s1600/u011.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-R2V6j84G1Vk/VimgCeI__TI/AAAAAAAAtSc/CazsGNUbyPY/s1600/u012.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-xEvt-kQ3xDM/VimgC7jp4sI/AAAAAAAAtTA/JwB9wP5yzEE/s1600/u013.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-FJv8hIf5H_A/VimgC4h5xEI/AAAAAAAAtS4/szLDSvm120Q/s1600/u014.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-1coqAOdrlIg/VimgDCoSr8I/AAAAAAAAtS0/DOZhWsvbe7M/s1600/u015.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-5PWnoce4Rdw/VimgDx4aOgI/AAAAAAAAtTI/edkGGVA0OU0/s1600/u016.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-C9FR60fFtkE/VimgEP9JO0I/AAAAAAAAtTM/fTZSHvJuotU/s1600/u017.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-0qOuGzMq9lE/VimgEV9idjI/AAAAAAAAtTU/rYSOCezPJeE/s1600/u018.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-xt9IwRoR9Ss/VimgEp_8vbI/AAAAAAAAtTc/Lb-fYGlRqHk/s1600/u019.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-SwkfuWm4njc/VimgE-ilUKI/AAAAAAAAtTg/tQqrzjBBbnY/s1600/u020.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-XKlR_8i_j6c/VimgFPhc85I/AAAAAAAAtTk/cL2TpDQdQ34/s1600/u021.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-cEiQVfa31pE/VimgFh2jOvI/AAAAAAAAtTw/z7NRXaug70Q/s1600/u022.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-OJc_o0de63k/VimgFlXC-3I/AAAAAAAAtT0/WaIsOzKnTDQ/s1600/u023.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-jBBQG0UWFrk/VimgFyciZUI/AAAAAAAAtT4/NuG90QowzdA/s1600/u024.jpg"
+            ]
+        },
+        
+                {
+          "Name": "Chapter 4",
+          "Links": [
+            "https://i0.wp.com/lh3.googleusercontent.com/-4RarI_DjCCk/Vis_gE84EBI/AAAAAAAAtj8/SrtVvmeNEsM/s1600/2.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-yrXz_egp5E0/Vis_hu0qAvI/AAAAAAAAtkM/yxncN_44ubA/s1600/3.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-d_gL2Ra9lbo/Vis_iLrdgMI/AAAAAAAAtkQ/56Yu8AwYn18/s1600/4.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-mN2K84Jm_oU/Vis_jT1JKcI/AAAAAAAAtkg/6Hm3I6-yZ6I/s1600/5.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-qiHUdIVS2SE/Vis_jpQdcXI/AAAAAAAAtkk/MfIbjk8i7wQ/s1600/6.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-DnVDrIoWXOA/Vis_jwn-fvI/AAAAAAAAtko/8Txr2hdrr0Q/s1600/7.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-JvQoEFKrjww/Vis_k8HKQsI/AAAAAAAAtk0/DQPDpQOj0L8/s1600/8.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-T_3jl-Y_sHM/Vis_lczwmcI/AAAAAAAAtk8/kpkmIH4xefE/s1600/9.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Y4FFd7pjf-c/Vis_a-IcQQI/AAAAAAAAtiw/7_RCOoOA7dI/s1600/10.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-nejCFJfO_A4/Vis_axHVQHI/AAAAAAAAtis/we3wZ-SZLvM/s1600/11.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-fuv9NExK3nU/Vis_bWLKdeI/AAAAAAAAti4/93sRVKysHyY/s1600/12.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-jrcw02PamkM/Vis_cHpPUoI/AAAAAAAAtjE/2OiUxagAlBQ/s1600/13.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Tw-Pu4WSfsk/Vis_c-hDjxI/AAAAAAAAtjQ/_7SZhsDPVtA/s1600/14.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ZAgkA6CTr4Q/Vis_dYN09UI/AAAAAAAAtjU/fdc0yxUSjPw/s1600/15.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-3El4mdf9xx4/Vis_d9LBuFI/AAAAAAAAtjY/eGrp8EckJdQ/s1600/16.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-wUti-oNIKDg/Vis_ep8LPNI/AAAAAAAAtjk/LClZMmrf2m8/s1600/17.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-fgGYGNxz1pI/Vis_fB7Dr_I/AAAAAAAAtjs/yB5PpO3jv2Q/s1600/18.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ElcfswiTLnA/Vis_fQ_ENnI/AAAAAAAAtjw/4LDd0mNQ1Zs/s1600/19.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-qa9xBX7hU7c/Vis_hauEbHI/AAAAAAAAtkI/hORqfjycRZw/s1600/20.jpg"
+            ]
+        },
+                {
+          "Name": "Chapter 5",
+          "Links": [
+            "https://i0.wp.com/lh3.googleusercontent.com/-m8hl897Yq1w/Vixdu2oBiII/AAAAAAAAtqg/BH-s5hUIRGY/s1600/001.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-A5mqlvgnV4g/VixduwGN7HI/AAAAAAAAtqo/jHwd2B9K79I/s1600/002.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-5fK6JYxHRdQ/Vixdu4xSt9I/AAAAAAAAtqk/Zg1eiJC0pnQ/s1600/003.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-1x7AW_RuKac/VixdvjyHVtI/AAAAAAAAtqs/1h6r7oC2nTA/s1600/004.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-TapuukdOqJU/Vixdv_M1ThI/AAAAAAAAtq0/8vh-p3vtIag/s1600/005.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-yoUN48LM-98/VixdwLH8TWI/AAAAAAAAtq4/j2PnuMnPst0/s1600/006.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-FCFnVhI7dA4/VixdwbKX70I/AAAAAAAAtrA/OJKpGEUsXzc/s1600/007.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-0wk_m6dHQG8/VixdxIvfyqI/AAAAAAAAtrU/oHtfVjAsc1I/s1600/008.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-N1iP3j8IPw4/VixdxfHQQaI/AAAAAAAAtrc/hhYB9fjrdI8/s1600/009.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-3Rx2rkI3XyA/Vixdxa3gG2I/AAAAAAAAtrY/MlIvXpEwRW4/s1600/010.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-99TEFagUt9Q/VixdyJkZweI/AAAAAAAAtrk/uA9M2cgAU6w/s1600/011.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-UONKKOPUL1g/VixdyREIhLI/AAAAAAAAtro/-WRhHguAHHM/s1600/012.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/--t0xzYse_9Y/Vixdyg2yJVI/AAAAAAAAtrw/LCAEWzD8LbU/s1600/013.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-W2bIk0QIWWw/Vixdy5gOZDI/AAAAAAAAtr8/tCqdWMg_fMc/s1600/014.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-0Udsch8Fd9c/VixdzbAjbNI/AAAAAAAAtsI/ytvcEPGAlNs/s1600/015.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-dv4h_0KNNQs/Vixd0HBm0jI/AAAAAAAAtsU/VcxBPRsX1z4/s1600/016.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-C0zHP4Zypuw/Vixd0U3mmiI/AAAAAAAAtsc/Ko3htDq7cko/s1600/017.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ucmDeZUa9yk/Vixd0b1oUPI/AAAAAAAAtsg/FMbnNPBHV2c/s1600/018.jpg"
+            ]
+        }
+        ]
+    },
+    
+    {
+      "Name": "Boruto",
+      "Image": "http://idnaruto.com/wp-content/uploads/2015/12/Poster-BORUTO-Manga-Spring-2016.jpg",
+      "Category": "Action,Adventure,Comedy,Fantasy,Martial Arts, Shounen,Super Power",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": [
+            "https://i0.wp.com/lh3.googleusercontent.com/-CGPfMUwCl0I/WLEiLGDsfxI/AAAAAAAAHkQ/BNstXpjES-wyIHTlpI28skdcpekZ9QBBQCLcB/s1600/005.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Qc5Vnkr7sZY/WLEiNsHzGpI/AAAAAAAAHkU/rLsAuawrMygzJVgOsGefYViFX5ZpJQxEwCLcB/s1600/006.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-e3K3G_yfh8U/WLEiOSc26WI/AAAAAAAAHkc/DED03vz9DLgPCMO3g5ilDQIJki2qDA36ACLcB/s1600/007.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-uNaFBcYPX0U/WLEiNsZIK0I/AAAAAAAAHkY/yBcGBYioR-kFw7he04Zqs05fAnHYW49UwCLcB/s1600/008.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-nGNfhwoFkkQ/WLEiO4qc7gI/AAAAAAAAHkg/-eXxXuH5h-gpOvKstfnMLaC9YeZhJdF1gCLcB/s1600/009.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-_BC7YZrJm1k/WLEiPj8hq8I/AAAAAAAAHkk/KCsSJD5Edr4VDiCnBeyFdu3n6Svb0kaYQCLcB/s1600/010.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-O5xm_Nqr7FM/WLEiP7mBMuI/AAAAAAAAHko/_D1FD5Jds_0QGdeRnpjvD1sfKOU984MWwCLcB/s1600/011.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-LyAeFytz9D8/WLEiQb0sVII/AAAAAAAAHks/fgpvtvK7C5Yt2zZx9-ARLcRhpjTPtf5-gCLcB/s1600/012.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-1j-dqT7xLDY/WLEiQmxLjHI/AAAAAAAAHkw/exQmlHNsOEoWhU0gixvxCjsSN98vWReEwCLcB/s1600/013.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-er3p4tl0U7Y/WLEiRE-ts5I/AAAAAAAAHk0/1w2LnBPiu0MweZZf2PmNo6WcoQ5S2_vfgCLcB/s1600/014.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-HtOlE87jNsw/WLEiSNI2qrI/AAAAAAAAHk4/7Jk8oFTMuMU8eh4M2hAaG8lRRneJu3eGwCLcB/s1600/015.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-tArPHk2XHdc/WLEiTPjgsMI/AAAAAAAAHk8/_S2O0g7Tt2YcC9VaUpPaBbKFELIGQ9O3gCLcB/s1600/016.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-OXZ_ebOMV0Q/WLEiTHNemQI/AAAAAAAAHlA/oP9F81seoP4ok3LSkvvKaKUrr95TWCzRACLcB/s1600/017.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-3o_KqjxeIP4/WLEiTUyqZZI/AAAAAAAAHlE/SwjabsydGXE-apC7kzTUO9D1LNbhzZwNACLcB/s1600/018.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-5J98XOsV35g/WLEiU_jktdI/AAAAAAAAHlI/-cmVsv7LwkMAbJtUn8Ci4RnzqUCAGrBbgCLcB/s1600/019.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-n_8-gh7IViI/WLEiVroJBII/AAAAAAAAHlM/xxhdvtivkt80oZesziHllEykivosvlWtgCLcB/s1600/020.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-jjN99JE8oh4/WLEiVwmPF4I/AAAAAAAAHlQ/xBK_mQ987HMKOaghWuf-JXCJRAHcMyingCLcB/s1600/021.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-NOIMUAoaSJg/WLEiWsGFPBI/AAAAAAAAHlU/aVO2JdNUAgUv5t4RkGF5RBjt3EQ6YIZaQCLcB/s1600/022.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-tbDIy7hqvVA/WLEiXg1N5bI/AAAAAAAAHlY/goUZW9DX2IQMnKUkaFuEG2TB0J-eh55ZwCLcB/s1600/023.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-TDYakbGp3BQ/WLEiYIz6uRI/AAAAAAAAHlc/Hwypc4hiYNswqC8bW9_KkoHk4E1g0OXkwCLcB/s1600/024.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Q005EdvN0Vc/WLEiYU0mKiI/AAAAAAAAHlg/OqxYgbYTia0_JXNTtwB5qTDMJD0zn2FkwCLcB/s1600/025.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-c41SO0l5C64/WLEiaKGvZQI/AAAAAAAAHlk/WuHUanX2EqUmiSomle8TgdoiZgyp_YXsQCLcB/s1600/026.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-9mHbYS0q_BA/WLEiaqk79rI/AAAAAAAAHlo/SwLvlh2JuRA0UhD2mnB384QgyFsYk2Y0gCLcB/s1600/027.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-4EdT0_sbig0/WLEiakU0slI/AAAAAAAAHls/wfLMJL61RcQykXgQUUsECImTUlW8DASUwCLcB/s1600/028.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ptYG6QGXXuA/WLEia4l88DI/AAAAAAAAHlw/ECKcmkKsEkMKdH9uGlQ3HlPCkSoL5OzbQCLcB/s1600/029.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-d_QIFtV8Aac/WLEicHbOn1I/AAAAAAAAHl0/9yXXtMOUlSAkP8_EFTpW0ZSD-xXOcw8dQCLcB/s1600/030.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ugkunCcWAHI/WLEicZfDtyI/AAAAAAAAHl4/ioG5fmcZYZA6H5cDZBEHVR4ci8SrYK83wCLcB/s1600/031.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-puAMdt10feg/WLEicStAAUI/AAAAAAAAHl8/wuP-17cyC2I8Sf7QTctd8_P_9nOIgbkIQCLcB/s1600/032.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-HSPU4WN_y4c/WLEidUPPwBI/AAAAAAAAHmA/v4KnXeXTmLEWoeuSFzDjEcTZ8EzXyWFlgCLcB/s1600/033.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-8ek2uO9BF1I/WLEidp8fdJI/AAAAAAAAHmE/gzVjuFVgQUY57LcvK2iJeZtY_8JFnnOzACLcB/s1600/034.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-7Bu959818uk/WLEid89m9sI/AAAAAAAAHmI/79J69O_G40A_H1kVbPC5dfr3lld4WVI-ACLcB/s1600/035.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-M7wY_dkjXXs/WLEieFOY5GI/AAAAAAAAHmM/ns11jU6FdH8PSX5eUo55Xr0EmoGr3L8bQCLcB/s1600/036.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-gsmHGozbIB0/WLEifFIWz8I/AAAAAAAAHmU/s9-bz5rWozMWQZzUEEkY90VFd0mjt7SFgCLcB/s1600/037.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-HsEsbNAQr64/WLEifIzyyaI/AAAAAAAAHmQ/ZkE6fBWRcxY6-YpwKY5RpLfOHTBhHlDcwCLcB/s1600/038.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ZIbQqJq0b7s/WLEifahBQ8I/AAAAAAAAHmY/ahY4-Jf7JTUHI2GEFox_Z_QqmQ6twbr7gCLcB/s1600/039.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-qz92RT8AVmY/WLEig7RaRXI/AAAAAAAAHmg/6xS-zEkj3A8QBn5AuiTnvFMK_vimu3fwACLcB/s1600/040.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-IyMA_9keBzY/WLEigvarqzI/AAAAAAAAHmc/rqeEKlO6GSwOYY07RXpyq7JXbwUFdm6xwCLcB/s1600/041.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ciZvMk1yv0c/WLEig84Ua1I/AAAAAAAAHmk/JHW4E_Qrz_Mi03GhvfPnMmK4uTRInO8qQCLcB/s1600/042.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-8XUPcG2BRVI/WLEihmVXlWI/AAAAAAAAHmo/htTfbp76AEI-H7i9wyP1m8nFb6F9TpzVwCLcB/s1600/043.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-1JpuAaeLgPw/WLEihz0wlnI/AAAAAAAAHms/Y8j5yEKU3Wsc245RdOm9K57nDx29lWKWgCLcB/s1600/044.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-Rlv0phcFOCI/WLEiiJBv0lI/AAAAAAAAHmw/MhFV3rqJmHAqxspdXRCbw4ZU4CBBlqlCgCLcB/s1600/045.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-gBqlmV6LyGE/WLEiir_KX-I/AAAAAAAAHm0/oae-M9pFxCEs3duzAJSkrQOqOz0rBoZGQCLcB/s1600/046.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-jNBhJ5ktMOU/WLEiizDrXhI/AAAAAAAAHm4/wziDFay0yjYSv9MI9n26-i3qA3JrK_1KACLcB/s1600/047.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-pjT9AgwV0dM/WLEijAAgIkI/AAAAAAAAHm8/wfvT9HsfixI4eZGqkw6NZk2BvVYzot4KQCLcB/s1600/048.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-jjXqVTdpRho/WLEijsLE9jI/AAAAAAAAHnA/z7tLvNDuyN0cqSbWo-q_aDNHvF20k_ZHQCLcB/s1600/049.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-p-9zLSyVJs0/WLEikG--hyI/AAAAAAAAHnE/TR4onZqSvCIpTHBDXlymmYw_dBFUodPtwCLcB/s1600/050.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-EIF2v_DkIMM/WLEikCXttnI/AAAAAAAAHnI/A4lRuIRAFqIqdv4cpHa37PhGP5Y3xd51gCLcB/s1600/051.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-GyLN3MsOzXI/WLEilTzhPFI/AAAAAAAAHnM/uyaB5rXquKoCK1jRJKUxCqxkTAFn6mbMwCLcB/s1600/052.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-8DqeeQu3JqQ/WLEilh_m7FI/AAAAAAAAHnQ/hrj1DvLrTHk44OusjsTqn2uArBChSeJWQCLcB/s1600/053.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-HzIybx8ItD8/WLEilnB2O9I/AAAAAAAAHnU/iM0dXBONYOw-BWiuGTw2jhLsIf782U_JwCLcB/s1600/054.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-A7CBvvwAdvw/WLEimx6KTdI/AAAAAAAAHnY/WuAjrDCLjzEHKygtIn04kj7cmtpVOBL9gCLcB/s1600/055.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-PqMcbEBFZDo/WLEinGTwE8I/AAAAAAAAHnc/cheKaUxi4qAEVd0FOk9E3v3vDX8T3vZ2gCLcB/s1600/056.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-GfNCTeHXbyM/WLEinGVAgsI/AAAAAAAAHng/Xwjko7Wiu481GwozXQi8ipNb4zvricQkACLcB/s1600/057.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-PR56NAQGMSE/WLEinq25sDI/AAAAAAAAHnk/AQ-QOdigr7QYG4AOvDeHpPtpiXm90k9wQCLcB/s1600/058.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-ddooNHWPIuo/WLEipBz92iI/AAAAAAAAHno/5uLMuNlGSgAk59VFW1kFguqtF59fMp0JQCLcB/s1600/059.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-E6FaW_qLz_4/WLEipkdxflI/AAAAAAAAHns/E60QxknYGXEdG9ChbBqyhiX6zYh6FTwEgCLcB/s1600/060.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-x1aeGQpiR9E/WLEipmLYqkI/AAAAAAAAHnw/1vs7OUCI15MwsOKy7u3af6ADptwefKJigCLcB/s1600/061.jpg",
+"https://i0.wp.com/lh3.googleusercontent.com/-eQiLavNXOA8/WLEiqLh6-0I/AAAAAAAAHn0/mrPq0RpErf8OO0nnMaiC6Zoza2uy38EJgCLcB/s1600/062.jpg"
+            ]
+        },
+        
+                {
+          "Name": "Chapter 2",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 3",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 4",
+          "Links": []
+        },
+                {
+          "Name": "Chapter 5",
+          "Links": []
+        }
+        ]
+    },
+
+    {
+      "Name": "Gintama",
+      "Image": "https://images-na.ssl-images-amazon.com/images/I/51LTUxBdvzL._SX329_BO1,204,203,200_.jpg",
+      "Category": "Action,Comedy,Drama,Fantasy,Historical,Sci-Fi,Seinen,Shounen,Slice of Life,Supernatural",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 2",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 3",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 4",
+          "Links": []
+        },
+                {
+          "Name": "Chapter 5",
+          "Links": []
+        }
+        ]
+      
+    },
+    
+    {
+      "Name": "Hunter x Hunter",
+      "Image": "https://media.kitsu.io/anime/poster_images/6448/large.jpg?1431828590",
+      "Category": "Action,Adventure,Fantasy,Martial Arts,Psychological,Shounen,Supernatural",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 2",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 3",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 4",
+          "Links": []
+        },
+                {
+          "Name": "Chapter 5",
+          "Links": []
+        }
+        ]
+      
+    },
+    
+    {
+      "Name": "Kingdom",
+      "Image": "https://images-na.ssl-images-amazon.com/images/I/71iR-PrLBpL.jpg",
+      "Category": "Action,Drama,Historical,Seinen",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 2",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 3",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 4",
+          "Links": []
+        },
+                {
+          "Name": "Chapter 5",
+          "Links": []
+        }
+        ]
+      
+    },
+    
+    {
+      "Name": "One Piece",
+      "Image": "https://images-na.ssl-images-amazon.com/images/I/91Hk179d1CL.jpg",
+      "Category": "Action,Adventure,Comedy,Fantasy,Martial Arts,Mystery,Shounen,Supernatural",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 2",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 3",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 4",
+          "Links": []
+        },
+                {
+          "Name": "Chapter 5",
+          "Links": []
+        }
+        ]
+      
+    },
+    
+    {
+      "Name": "Onepunch-Man",
+      "Image": "https://i0.wp.com/animenewsplus.net/wp-content/uploads/2019/04/740full-one-punch-man-vol.-1-cover.jpg?fit=740%2C1099&ssl=1",
+      "Category": "Action,Comedy,Martial Arts,Seinen,Shounen,Super Power,Supernatural",
+      "Chapters": [
+        {
+          "Name": "Chapter 1",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 2",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 3",
+          "Links": []
+        },
+        
+                {
+          "Name": "Chapter 4",
+          "Links": []
+        },
+                {
+          "Name": "Chapter 5",
+          "Links": []
+        }
+        ]
+      
+    }
+
+  ]
+}
